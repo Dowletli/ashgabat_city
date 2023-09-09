@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGallery.Runtime", "NativeGallery.Runtime.csproj", "{ce8139f0-e927-7043-e2b2-1dd4e20dada7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{30d8345d-37fb-5bb6-4dd5-c4c364fe2c96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTouch", "LeanTouch.csproj", "{cbb82ed2-02c5-eba3-be17-4032b6617acf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCommon", "LeanCommon.csproj", "{05ef984f-2653-4644-0d31-77e443fd6691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeGallery.Editor", "NativeGallery.Editor.csproj", "{f15d93b3-176e-27f7-6cf0-5d6d75bdcaa8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ce8139f0-e927-7043-e2b2-1dd4e20dada7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ce8139f0-e927-7043-e2b2-1dd4e20dada7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30d8345d-37fb-5bb6-4dd5-c4c364fe2c96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30d8345d-37fb-5bb6-4dd5-c4c364fe2c96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{cbb82ed2-02c5-eba3-be17-4032b6617acf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cbb82ed2-02c5-eba3-be17-4032b6617acf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ef984f-2653-4644-0d31-77e443fd6691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ef984f-2653-4644-0d31-77e443fd6691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f15d93b3-176e-27f7-6cf0-5d6d75bdcaa8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f15d93b3-176e-27f7-6cf0-5d6d75bdcaa8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
